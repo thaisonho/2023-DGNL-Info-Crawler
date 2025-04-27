@@ -55,7 +55,7 @@ END_ID_NUM = 24000000
 MAX_WORKERS = 200 # At that time, there weren't any blacklist,
                   # IP blocking, timeout, etc. No any security fence!
                   # So I just goes brrr brrr on this one.
-                  # Why a bigger number? My old laptop just couldn't handled it lol.
+                  # Why not a bigger number? My old laptop just couldn't handled it lol.
 OUTPUT_FILE = 'crawled_data.txt'
 PROGRESS_FILE = 'last_id.txt'
 

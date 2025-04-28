@@ -71,7 +71,7 @@ pip install requests
 
 ## Proof of crawled data
 
-This shows leaked data contains candidate's ID number.
+This shows leaked data contains candidate's Governmental ID number.
 ![ID number leaked!](./img/Screenshot%202025-04-28%20013336.png)
 
 It also contains names, email, home address, etc.

@@ -24,7 +24,7 @@ With the goal of selecting students who possess the capabilities aligned with th
 
 ### About this project
 
-This project originated during my high school studies as an exploration of web APIs and scripting. I identified an Insecure Direct Object Reference (IDOR) vulnerability in an API endpoint where sequentially guessing parameters in a POST request allowed access to data belonging to other users. I succeed retrieved data from all ~101.000 candidate participating in this exam, both the first and the second one.
+This project originated during my high school studies as an exploration of web APIs and scripting. I identified an Insecure Direct Object Reference (IDOR) vulnerability in an API endpoint where sequentially guessing parameters in a POST request allowed access to data belonging to other users. I succeed retrieved data from all ~101.000 candidates participating in this exam, both the first and the second one.
 
 Now, I decided to upload this project, for:
 

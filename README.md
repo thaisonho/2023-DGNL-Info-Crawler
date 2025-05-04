@@ -29,7 +29,7 @@ This project originated during my high school studies as an exploration of web A
 Now, I decided to upload this project, for:
 
 * **One**: I feel like my CV and GitHub profile is kinda boring, normal and nothing noticeable.
-* **Two**: I think this could be a good education resource on how an bad coding attempt could led to a **hugh sensitive personal data leak**. The data content very personal information, such as **candidate's ID number, score, emails, home address,...** I'll show some censored [here](#proof-of-crawled-data)
+* **Two**: I think this could be a good education resource on how an bad coding attempt could led to a **hugh sensitive personal data leak**. The data contain sensitive personal information, such as **candidate's ID number, score, emails, home address,...** I'll show some censored [here](#proof-of-crawled-data)
 
 ---
 
